@@ -1,8 +1,7 @@
 # to_do_list
-# a simple to do list program in python
+a simple to do list program in python
 
 tasks = []
-
 while True:
     print("\n1. Add task")
     print("2. View tasks")
